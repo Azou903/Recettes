@@ -10,6 +10,6 @@ Notre projet est composer de trois étapes importante :
 
 ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
