@@ -20,7 +20,9 @@ Ce projet a été réalisé dans le cadre du cours de programmation avancée du 
 ## Objectifs
 
 • Manger! Manger! Manger! 
+
 • Donner envie de cuisine et faciliter à trouver des recettes
+
 • Diminuer le gaspillage alimentaire
 
 ## Les étapes
