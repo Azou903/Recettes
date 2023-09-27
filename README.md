@@ -10,9 +10,6 @@ Notre projet est composer de trois étapes importante :
 
 ![](https://img.shields.io/badge/Python-31A8FF.svg?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)
-![](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=google-colab&logoColor=white)
-![](https://img.shields.io/badge/scikit%20learn-F7931E.svg?logo=scikit-learn&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
