@@ -33,7 +33,9 @@ Notre projet est composé de trois étapes importantes :
 - création d'un second interface qui prend en compte la suggestion des différents recettes après selection des ingrédients en montrant les images des rectettes, le temps de préparation, la durée de cuisson, les ingrédients necessaires, les différentes étapes de préparation et la difficulté de préparation.
 
 ## Contributeur
+
 SOW Assane : @Azou903
+
 KEBIR Zied : 
 
 ## Limites et Extensions
