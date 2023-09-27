@@ -39,16 +39,21 @@ SOW Assane : @Azou903
 KEBIR Zied : 
 
 ## Limites et Extensions
-# • Limites
+# Limites
 
 ➢ Recettes obtenues peuvent contenir plus d’ingredients que ceux suggérés
+
 ➢ Probléme avec les noms d’ingredients composés (exemple: oignion rouge, Asperge blanche…)
+
 ➢ Liste d’ingredients non exhaustive 
 
-# • Extensions
+# Extensions
 
 ➢ Filtrer les recettes par pays 
+
 ➢ Matching par mot compose (l’algorithme recherche oignion rouge au lieu de juste oignion)
+
 ➢ Envoyer la liste d’ingredients par email 
+
 ➢ Améliorer le design de l’interface
 
