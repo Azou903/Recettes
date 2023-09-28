@@ -44,15 +44,15 @@ KEBIR Zied :
 
 ➢ Recettes obtenues peuvent contenir plus d’ingredients que ceux suggérés
 
-➢ Probléme avec les noms d’ingredients composés (exemple: oignion rouge, Asperge blanche…)
+➢ Probléme avec les noms d’ingredients composés (exemple: oignion rouge, Asperge blanche…) : le prgramme ne peux considéré les noms composés mais à la place, il va considéré chaque mots : "oignon" et "rouge" et faire la recherche pour chaque mot.
 
 ➢ Liste d’ingredients non exhaustive 
 
 # Extensions
 
-➢ Filtrer les recettes par pays 
+➢ Filtrer les recettes par pays (Italian, Français...)
 
-➢ Matching par mot compose (l’algorithme recherche oignion rouge au lieu de juste oignion)
+➢ Matching par mot composé (l’algorithme recherche oignion rouge au lieu de juste oignion)
 
 ➢ Envoyer la liste d’ingredients par email 
 
