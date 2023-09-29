@@ -29,7 +29,7 @@ Ce projet a été réalisé dans le cadre du cours de programmation avancée du 
 ## Les étapes
 
 Notre projet est composé de trois étapes importantes :
-- Webscraping (avec le package Selenium) puis nettoyage des données : de nos recettes dans le site web (https://www.ptitchef.com/recettes/entree) et de nos ingrédients dans le site web ()
+- Webscraping (avec le package Selenium) puis nettoyage des données : de nos recettes dans le site web (https://www.ptitchef.com/recettes/entree) et de nos ingrédients dans le site web (https://www.qu-est-ce-qu-on-mange.com/dans-mon-frigo)
 
 ![cover](https://github.com/Azou903/Recettes/blob/main/recette.png)
 
