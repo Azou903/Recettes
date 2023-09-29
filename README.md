@@ -30,6 +30,9 @@ Ce projet a été réalisé dans le cadre du cours de programmation avancée du 
 
 Notre projet est composé de trois étapes importantes :
 - Webscraping (avec le package Selenium) puis nettoyage des données : de nos recettes dans le site web (https://www.ptitchef.com/recettes/entree) et de nos ingrédients dans le site web ()
+
+![cover](https://github.com/Azou903/Recettes/blob/main/recette.png)
+
 - Creation d'une première interface web qui permet de selectionner les ingrédients afin d'avoir une suggetion de recette
 
 ![cover](https://github.com/Azou903/Recettes/blob/main/interface%201.png)
