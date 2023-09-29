@@ -1,0 +1,15 @@
+PIL==9.2.0
+bs4==4.11.1
+bson==0.5.10
+nltk==3.7
+numpy==1.21.5
+pandas==1.4.4
+pipreqs==0.4.13
+pymongo==4.5.0
+selenium==4.8.2
+tkinter==8.6
+json==2.0.9
+re==2.2.1
+pickle==3.0.1
+urlib.request==3.9
+time==3.6.0
