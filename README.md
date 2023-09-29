@@ -35,9 +35,9 @@ Notre projet est composé de trois étapes importantes :
 
 ## Contributeur
 
-SOW Assane : @Azou903
+SOW Assane : @Azou903(https://github.com/Azou903)
 
-KEBIR Zied : 
+KEBIR Zied : @ZiedKebir(https://github.com/ZiedKebir)
 
 ## Limites et Extensions
 # Limites
