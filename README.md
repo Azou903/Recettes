@@ -1,10 +1,28 @@
 # Recommendations de recettes
+# Requirements
 
-## Prérequis
+PIL==9.2.0
+bs4==4.11.1
+bson==0.5.10
+nltk==3.7
+numpy==1.21.5
+pandas==1.4.4
+pipreqs==0.4.13
+pymongo==4.5.0
+selenium==4.8.2
+tkinter==8.6
+json==2.0.9
+re==2.2.1
+pickle==3.0.1
+urlib.request==3.9
+time==3.6.0
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PythonTkinter](https://img.shields.io/badge/pythonTkinter-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 # Terminale utiliser
 
